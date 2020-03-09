@@ -1,4 +1,4 @@
-package com.shanpf.aop.Spring_AOP;
+package com.shanpf.aop;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
